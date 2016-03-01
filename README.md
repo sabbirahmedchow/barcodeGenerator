@@ -10,5 +10,5 @@ the GD Library to be installed as a module in PHP.
 
 Usage:
 
-<img alt="testing" src="barcode.php?text=testing" />
+&lt;img alt="testing" src="barcode.php?text=testing" /&gt;
 
